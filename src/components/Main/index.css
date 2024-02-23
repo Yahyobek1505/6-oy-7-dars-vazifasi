@@ -1,0 +1,51 @@
+.main{
+  width: 100%;
+  margin: 0 auto; 
+  text-align: center;
+}
+.title{
+  font-size: 48px;
+  color: #1E255E;
+  max-width: 700px;
+  margin: 0 auto;
+  text-align: center;
+  line-height: 60px;
+  margin-bottom: 10px;
+}
+.paragrph{
+  color: #1e255eab;
+  font-size: 14px;
+  max-width: 900px;
+  margin: 0 auto;
+  text-align: center;
+  margin-bottom: 30px;
+}
+.button{
+  width: 200px;
+  height: 60px;
+  margin: 0 auto;
+  border: 1px solid #FF3333 ;
+  background: #FF3333;
+  color: #fff;
+  border-radius: 5px;
+  cursor: pointer;
+}
+.button:hover{
+  background: #fff;
+  color: #FF3333;
+}
+.images{
+  position: relative;
+  margin-top: 30px;
+  text-align: center;
+}
+.icon{
+  position: absolute;
+  left: 550px;
+  top: 100px;
+}
+.img{
+  position: absolute;
+  left: 10;
+  left: 200px;
+}

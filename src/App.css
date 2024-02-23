@@ -1,0 +1,24 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Poppins", sans-serif;
+}
+.conatainer {
+  max-width: 1140px;
+  margin: 0 auto;
+}
+.btn {
+  color: #ff3333;
+  width: 130px;
+  background: inherit;
+  cursor: pointer;
+  border-radius: 5px;
+  height: 42px;
+  border: 1px solid #ff3333;
+}
+.btn:hover{
+  color: #fff;
+  background: #ff3333;
+
+}
