@@ -24,3 +24,17 @@
   font-weight: 600;
   cursor: pointer;
 }
+.btn{
+  width: 130px;
+  height: 42px;
+  margin: 0 auto;
+  border: 1px solid #FF3333 ;
+  color: #FF3333;
+  background: #fff;
+  border-radius: 5px;
+  cursor: pointer;
+}
+.btn:hover{
+  background: #FF3333;
+  color: #fff;
+}
